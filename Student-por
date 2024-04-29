@@ -1,0 +1,3 @@
+git add nombre_del_archivo.csv
+git commit -m "C:\Users\mantaya\Desktop\DataSet_MarcoAntaya\student-por.csv"
+git push origin main
